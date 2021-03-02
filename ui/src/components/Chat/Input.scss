@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  border-top: 2px solid #D3D3D3;
+  border-bottom: 2px;
+}
+
+.input {
+  border: none;
+  margin-top: 4px;
+  padding: 5px;
+  width: 80%;
+  font-size: 1.2em;
+  height: 38px;
+}
+
+input:focus, textarea:focus, select:focus{
+  outline: none;
+}
+
+button {
+  width: 20% !important;
+  height: 40px;
+  padding-top: 4px;
+}

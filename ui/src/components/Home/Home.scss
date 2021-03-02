@@ -1,0 +1,51 @@
+.outerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.react-scroll-to-bottom--css-bjtuh-1n7m0yu{
+  background-color: white;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+button{
+  width: 100%;
+  outline: 0 !important;
+}
+
+table{
+  width: 100%;
+  height: 600px;
+}
+
+td{
+  outline: none;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  color: white;
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.disabled{
+  pointer-events: none;
+}
+
+.vert {
+  border-left: 4px solid rgb(255, 255, 255);
+  border-right: 4px solid rgb(255, 255, 255);
+}
+.hori {
+  border-top: 4px solid rgb(255, 255, 255);
+  border-bottom: 4px solid rgb(255, 255, 255);
+}
+
+.reset-button{
+  width: 100% !important;
+}
